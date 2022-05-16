@@ -31,7 +31,7 @@ sopWords = \lyricmode {
   \set stanza = "1. " \set shortVocalName = "1. "
   Crown him with man -- y crowns,
   The Lamb up -- on his throne;
-  Hark how the heav'n -- ly an -- them drowns
+  Hark how the heav’n -- ly an -- them drowns
   All mu -- sic but its own.
   A -- wake, my soul, and sing
   Of him who died for thee,
@@ -42,7 +42,7 @@ sopWords = \lyricmode {
 sopWordsII = \lyricmode {
   \set stanza = "2. " \set shortVocalName = "2. "
   Crown him the Lord of life,
-  Who tri -- umphed o'er the grave,
+  Who tri -- umphed o’er the grave,
   And rose vic -- to -- rious in the strife
   For those he came to save.
   His glo -- ries now we sing,
@@ -66,12 +66,12 @@ sopWordsIII = \lyricmode {
 sopWordsIV = \lyricmode {
   \set stanza = "4. " \set shortVocalName = "4. "
   Crown him the Lord of peace,
-  Whose pow'r a scep -- ter sways
+  Whose pow’r a scep -- ter sways
   From pole to pole, that wars may cease,
   Ab -- sorbed in prayer and praise.
   His reign shall know no end,
-  And "'round" his pierc -- ed feet
-  Fair flow'rs of Par -- a -- dise ex -- tend
+  And "’round" his pierc -- ed feet
+  Fair flow’rs of Par -- a -- dise ex -- tend
   Their fra -- grance ev -- er sweet.
 }
 

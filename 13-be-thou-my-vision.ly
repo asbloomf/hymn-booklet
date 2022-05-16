@@ -47,8 +47,8 @@ sopWordsII = \lyricmode {
 
 sopWordsIII = \lyricmode {
   \set stanza = "3. " \set shortVocalName = "3. "
-  High King of heav -- en, when vic -- t'ry is won,
-  May I reach heav -- en's joys, bright heav -- en's Sun!
+  High King of heav -- en, when vic -- t’ry is won,
+  May I reach heav -- en’s joys, bright heav -- en’s Sun!
   Heart of my heart, what -- ev -- er be -- fall,
   Still be my vi -- sion, O Rul -- er of all.
 }

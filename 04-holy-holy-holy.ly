@@ -52,7 +52,7 @@ sopWordsIII = \lyricmode {
   Though the eye of sin -- ful man thy glo -- ry may not see,
   \set ignoreMelismata = ##f
   On -- ly thou art ho -- ly; there is none be -- side thee,
-  Per -- fect in pow'r, in love, and pu -- ri -- ty.
+  Per -- fect in pow’r, in love, and pu -- ri -- ty.
 }
 
 sopWordsIV = \lyricmode {

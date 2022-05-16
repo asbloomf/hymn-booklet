@@ -64,7 +64,7 @@ sopWordsIV = \lyricmode {
 sopWordsV = \lyricmode {
   \set stanza = "5. " \set shortVocalName = "5. "
   To Fa -- ther, Son, and Ho -- ly Ghost,
-  The God whom heav'n and earth a -- dore,
+  The God whom heav’n and earth a -- dore,
   From men and from the an -- gel host
   Be praise and glo -- ry ev -- er -- more.
 }

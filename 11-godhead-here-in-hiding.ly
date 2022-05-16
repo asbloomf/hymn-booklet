@@ -47,8 +47,8 @@ sopWordsII = \lyricmode {
   \set stanza = "2. " \set shortVocalName = "2. "
   See -- ing, touch -- ing, tast -- ing are in thee de -- ceived;
   How says trust -- y hear -- ing? that shall be be -- lieved;
-  What God's Son has told me, take for truth I do;
-  Truth him -- self speaks tru -- ly or there's noth -- ing true.
+  What God’s Son has told me, take for truth I do;
+  Truth him -- self speaks tru -- ly or there’s noth -- ing true.
 }
 
 sopWordsIII = \lyricmode {
@@ -79,7 +79,7 @@ sopWordsVI = \lyricmode {
   \set stanza = "6. " \set shortVocalName = "6. "
   Like what ten -- der tales tell of the Pe -- li -- can,
   Bathe me, Je -- sus Lord, in what thy bo -- som ran,
-  Blood that but one drop of has the pow'r to win
+  Blood that but one drop of has the pow’r to win
   All the world for -- give -- ness of its world of sin.
 }
 
@@ -88,7 +88,7 @@ sopWordsVII = \lyricmode {
   Je -- sus whom I look at shroud -- ed here be -- low,
   I be -- seech thee, send me what I thirst for so,
   Some day to gaze on thee face to face in light
-  And be blest for -- ev -- er with thy glo -- ry's sight.
+  And be blest for -- ev -- er with thy glo -- ry’s sight.
 }
 
 altoMusic = \relative c' {

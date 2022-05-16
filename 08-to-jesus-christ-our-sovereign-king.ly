@@ -27,7 +27,7 @@ sopMusic = \relative c' {
 }
 sopWords = \lyricmode {
   \set stanza = "1. " \set shortVocalName = "1. "
-  To Je -- sus Christ, our sov -- "'reign" King Who is the world's sal -- va -- tion,
+  To Je -- sus Christ, our sov -- "’reign" King Who is the world’s sal -- va -- tion,
   All praise and hom -- age do we bring And thanks and ad -- o -- ra -- tion.
   \set shortVocalName = ""
   Christ Je -- sus, Vic -- tor! Christ Je -- sus, Rul -- er!
@@ -36,13 +36,13 @@ sopWords = \lyricmode {
 
 sopWordsII = \lyricmode {
   \set stanza = "2. " \set shortVocalName = "2. "
-  Thy reign ex -- tend, O King be -- nign, To ev -- "'ry" land and na -- tion;
+  Thy reign ex -- tend, O King be -- nign, To ev -- "’ry" land and na -- tion;
   For in thy king -- dom, Lord di -- vine, A -- lone we find sal -- va -- tion.
 }
 
 sopWordsIII = \lyricmode {
   \set stanza = "3. " \set shortVocalName = "3. "
-  To thee and to thy Church, great King, We pledge our hearts' ob -- la -- tion;
+  To thee and to thy Church, great King, We pledge our hearts’ ob -- la -- tion;
   Un -- til be -- fore thy throne we sing In end -- less ju -- bi -- la -- tion.
 }
 

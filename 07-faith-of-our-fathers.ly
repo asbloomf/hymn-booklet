@@ -32,7 +32,7 @@ sopWords = \lyricmode {
   Faith of our fa -- thers, liv -- ing still,
   In spite of dun -- geon, fire, and sword;
   O how our hearts beat high with joy,
-  When -- e'er we hear that glo -- rious word:
+  When -- e’er we hear that glo -- rious word:
   \set shortVocalName = ""
   Faith of our fa -- thers, ho -- ly faith!
   We will be true to thee till death.
@@ -42,13 +42,13 @@ sopWordsII = \lyricmode {
   \set stanza = "2. " \set shortVocalName = "2. "
   Our fa -- thers, chained in pris -- ons dark,
   Were still in heart and con -- science free;
-  And blest would be their chil -- dren's fate
+  And blest would be their chil -- dren’s fate
   If we, like them, should die for thee.
 }
 
 sopWordsIII = \lyricmode {
   \set stanza = "3. " \set shortVocalName = "3. "
-  Faith of our fa -- thers, Ma -- ry's prayers
+  Faith of our fa -- thers, Ma -- ry’s prayers
   Shall win all na -- tions un -- to thee;
   And through the truth that comes from God,
   Man -- kind shall then in -- deed be free.

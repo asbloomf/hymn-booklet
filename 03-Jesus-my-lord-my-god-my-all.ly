@@ -41,7 +41,7 @@ sopWords = \lyricmode {
 
 sopWordsII = \lyricmode {
   \set stanza = "2. " \set shortVocalName = "2. "
-  Had I but Ma -- ry's sin -- less heart
+  Had I but Ma -- ry’s sin -- less heart
   To love thee with, my dear -- est King,
   Oh, with what bursts of fer -- vent praise
   Thy good -- ness, Je -- sus, would I sing.

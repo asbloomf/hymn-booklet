@@ -7,7 +7,7 @@
 
 #(set-global-staff-size 23) \paper{ #(define fonts (make-pango-font-tree "Garamond Premr Pro" "Garamond Premr Pro" "Garamond Premr Pro" (/ 25 20))) }
 
-\markup\fill-line \center-align {\override #'(font-name . "Garamond Premr Pro Subh"){ \abs-fontsize #18 "The Holy Name Men's Society"}}
+\markup\fill-line \center-align {\override #'(font-name . "Garamond Premr Pro Subh"){ \abs-fontsize #18 "The Holy Name Men’s Society"}}
 \markup\fill-line \center-align {\override #'(font-name . "Garamond Premr Pro Subh"){ \abs-fontsize #18 "Eucharistic Procession"}}
 \markup\vspace #0.9
 
@@ -21,7 +21,7 @@
 {\fill-with-pattern #0.1 #CENTER . "Alleluia, Sing to Jesus!" 9}
 {\fill-with-pattern #0.1 #CENTER . "Faith of Our Fathers" 11}
 {\fill-with-pattern #0.1 #CENTER . "To Jesus Christ, Our Sovereign King" 13}
-{\fill-with-pattern #0.1 #CENTER . "All Hail the Power of Jesus' Name" 15}
+{\fill-with-pattern #0.1 #CENTER . "All Hail the Power of Jesus’ Name" 15}
 {\fill-with-pattern #0.1 #CENTER . "Crown Him with Many Crowns" 17}
 {\fill-with-pattern #0.1 #CENTER . "Godhead Here in Hiding" 19}
 {\fill-with-pattern #0.1 #CENTER . "All People That On Earth Do Dwell" 20}

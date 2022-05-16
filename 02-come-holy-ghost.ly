@@ -35,7 +35,7 @@ sopWords = \lyricmode {
   \set stanza = "1. " \set shortVocalName = "1. "
   Come, Ho -- ly Ghost, Cre -- a -- tor blest,
   And in our hearts take up thy rest;
-  Come with thy grace and heav'n -- ly aid
+  Come with thy grace and heav’n -- ly aid
   To fill the hearts which thou hast made. made.
   %To fill the hearts which thou hast made.
 }

@@ -34,7 +34,7 @@ sopWords = \lyricmode {
   His the vic -- to -- ry a -- lone;
   Hark! the songs of peace -- ful Si -- on
   Thun -- der like a might -- y flood;
-  Je -- sus out of ev -- 'ry na -- tion
+  Je -- sus out of ev -- ’ry na -- tion
   Hath re -- deemed us by his blood.
 }
 
@@ -47,7 +47,7 @@ sopWordsII = \lyricmode {
   He is near us,
   Faith be -- lieves, nor ques -- tions how:
   Though the cloud from sight re -- ceived him,
-  When the for -- ty days were o'er,
+  When the for -- ty days were o’er,
   Shall our hearts for -- get his prom -- ise,
   "\"I" am with you ev -- er -- "more\"?"
 }
@@ -61,7 +61,7 @@ sopWordsIII = \lyricmode {
   Here the sin -- ful
   Flee to thee from day to day:
   In -- ter -- ces -- sor, friend of sin -- ners,
-  Earth's Re -- deem -- er, plead for me,
+  Earth’s Re -- deem -- er, plead for me,
   Where the songs of all the sin -- less
   Sweep a -- cross the crys -- tal sea.
 }
@@ -73,7 +73,7 @@ sopWordsIV = \lyricmode {
   Thee the Lord of lords we own;
   Al -- le -- lu -- ia!
   Born of Ma -- ry,
-  Earth thy foot -- stool, heav'n thy throne:
+  Earth thy foot -- stool, heav’n thy throne:
   Thou with -- in the veil hast en -- tered,
   Robed in flesh, our great High Priest;
   Thou on earth both Priest and Vic -- tim

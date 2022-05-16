@@ -38,7 +38,7 @@ sopWords = \lyricmode {
   Ho -- ly God we praise thy name;
   Lord of all, we bow be -- fore thee!
   All on earth thy scep -- ter claim,
-  All in heav'n a -- bove a -- dore thee;
+  All in heav’n a -- bove a -- dore thee;
   In -- fi -- nite thy vast do -- main,
   Ev -- er -- last -- ing is thy reign.
 }
@@ -49,7 +49,7 @@ sopWordsII = \lyricmode {
   An -- gel choirs a -- bove are rais -- ing,
   Cher -- u -- bim and ser -- a -- phim,
   In un -- ceas -- ing cho -- rus prais -- ing;
-  Fill the heav'ns with sweet ac -- cord:
+  Fill the heav’ns with sweet ac -- cord:
   Ho -- ly, ho -- ly, ho -- ly Lord.
 }
 

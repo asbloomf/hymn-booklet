@@ -2,7 +2,7 @@
 %\include "../util.ly"
 \include "inc-header.ly"
 \header {
-  title = \markup{\override #'(font-name . "Garamond Premr Pro"){ \abs-fontsize #18 "All Hail the Power of Jesus' Name"}}
+  title = \markup{\override #'(font-name . "Garamond Premr Pro"){ \abs-fontsize #18 "All Hail the Power of Jesus’ Name"}}
   composer = \markup"Oliver Holden (1765-1844)"
   poet = \markup "Edward Perronet (1726-1792)"
   tagline = ""
@@ -26,7 +26,7 @@ sopMusic = \relative c' {
 }
 sopWords = \lyricmode {
   \set stanza = "1. " \set shortVocalName = "1. "
-  All hail the pow'r of Je -- sus' name!
+  All hail the pow’r of Je -- sus’ name!
   Let an -- gels pros -- trate fall;
   Bring forth the roy -- al di -- a -- dem
   And crown him Lord of all;
@@ -36,7 +36,7 @@ sopWords = \lyricmode {
 
 sopWordsII = \lyricmode {
   \set stanza = "2. " \set shortVocalName = "2. "
-  Ye cho -- sen seed of Is -- rael's race,
+  Ye cho -- sen seed of Is -- rael’s race,
   Ye ran -- somed from the fall,
   Hail him who saves you by his grace,
   And crown him Lord of all;
@@ -46,7 +46,7 @@ sopWordsII = \lyricmode {
 
 sopWordsIII = \lyricmode {
   \set stanza = "3. " \set shortVocalName = "3. "
-  Let ev -- "'ry" kin -- dred, ev -- "'ry" tribe,
+  Let ev -- "’ry" kin -- dred, ev -- "’ry" tribe,
   On this ter -- res -- trial ball,
   To him all maj -- es -- ty as -- cribe,
   And crown him Lord of all;
@@ -58,9 +58,9 @@ sopWordsIV = \lyricmode {
   \set stanza = "4. " \set shortVocalName = "4. "
   O that with yon -- der sa -- cred throng,
   We at his feet may fall,
-  We'll join the ev -- er -- last -- ing song,
+  We’ll join the ev -- er -- last -- ing song,
   And crown him Lord of all;
-  We'll join the ev -- er -- last -- ing song,
+  We’ll join the ev -- er -- last -- ing song,
   And crown him Lord of all.
 }
 
