@@ -49,7 +49,7 @@ sopWordsII = \lyricmode {
   Though the cloud from sight re -- ceived him,
   When the for -- ty days were o’er,
   Shall our hearts for -- get his prom -- ise,
-  "\"I" am with you ev -- er -- "more\"?"
+  “I am with you ev -- er -- more”?
 }
 
 sopWordsIII = \lyricmode {
