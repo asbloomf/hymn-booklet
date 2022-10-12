@@ -71,7 +71,7 @@ altoMusic = \relative c' {
     f4 f ees | d2 d4 | f2 e4 | 
   }
   \alternative {
-    { f4( e2) }
+    { f4( ees2) }
     { c2. }
   }
   \bar "|."

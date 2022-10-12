@@ -61,7 +61,7 @@ altoMusic = \relative c' {
   \bar "|."
 }
 tenorMusic = \relative c' {
-  g4 g ees | ees d ees | ees g bes | bes2. |
+  g4 g ees | ees d d8[ ees] | ees4 g bes | bes2. |
   bes4 bes a | bes bes bes | aes bes c | d2. |
   aes4 aes8[ bes] c[ bes] | \slurDashed aes4( g) bes | bes g g | \slurSolid ees2( d4) |
   g bes bes | aes g g8[ bes] | aes4 aes aes | g2.
@@ -69,7 +69,7 @@ tenorMusic = \relative c' {
 }
 
 bassMusic = \relative c {
-  ees4 ees g, | aes bes aes | g c bes | ees2( g,4) |
+  ees4 ees g, | aes bes bes8[ aes] | g4 c bes | ees2( g,4) |
   bes bes c | d ees g, | aes g c | bes2. |
   aes4 aes aes' | \slurDashed ees( ees) ees | g, c g | \slurSolid aes2( bes4) |
   ees ees g, | aes8[ bes] c4 c | aes aes c | ees2.

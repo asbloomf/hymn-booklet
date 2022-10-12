@@ -65,7 +65,7 @@ bassMusic = \relative c' {
   \partial 4 bes4 | a e f a, | bes f c' cis | d4. c?8 bes4 f | c'2 f,4
              bes' | a e f a, | bes f c' cis | d4. c?8 bes4 f | c'2 f,
   f'2 e4 f | bes,2 d | g, d'4 bes | c2 f, |
-  f' d4 c | a2 bes4 g | bes2 c | f,2.
+  f' d4 c | a2 bes4 a | bes2 c | f,2.
   \bar "|."
 }
 \score {
