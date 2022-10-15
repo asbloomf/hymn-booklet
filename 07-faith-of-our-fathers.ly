@@ -59,7 +59,7 @@ sopWordsIV = \lyricmode {
   Faith of our fa -- thers, we will love
   Both friend and foe in all our strife,
   And preach thee, too, as love knows how,
-  By kindly deeds and vir -- tuous life.
+  By kind -- ly deeds and vir -- tuous life.
 }
 
 altoMusic = \relative c' {
