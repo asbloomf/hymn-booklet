@@ -90,7 +90,7 @@ bassMusic = \relative c {
   f2 f4 | c2 a4 | bes( d) c | f2. |
   f2 e4 | d2 c4 | a( bes) f' | f c2 |
   \repeat volta 2 {
-    c4 bes a | g( a) c | f( e) d | c2. |
+    c4( bes) a | g( a) c | f( e) d | c2. |
     bes2 g'4 | e2 f4 | g,( a8[ bes]) c4 | f2.
   }
 }
