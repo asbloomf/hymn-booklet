@@ -1,10 +1,11 @@
 \version "2.14.2"
 %\include "../util.ly"
 \include "inc-header.ly"
+\paper { first-page-number = #18 }
 \header {
   title = \markup{\override #'(font-name . "Garamond Premr Pro"){ \abs-fontsize #18 "Crown Him with Many Crowns"}}
-  composer = \markup"George J Elvey (1816-1893)"
-  poet = \markup "Matthew Bridges (1800-1894)"
+  composer = \markup"George J Elvey (1816–1893)"
+  poet = \markup "Matthew Bridges (1800–1894)"
   tagline = ""
 }
 #(set-global-staff-size 19) \paper{ #(define fonts (make-pango-font-tree "Garamond Premr Pro" "Garamond Premr Pro" "Garamond Premr Pro" (/ 20 20))) }
@@ -55,7 +56,7 @@ sopWordsIII = \lyricmode {
   \set stanza = "3. " \set shortVocalName = "3. "
   Crown him the Lord of love,
   Be -- hold his hands and side,
-  Rich wounds yet vis -- i-- ble a -- bove
+  Rich wounds yet vis -- i -- ble a -- bove
   In beau -- ty glo -- ri -- fied.
   No an -- gel in the sky
   Can ful -- ly bear that sight,
@@ -79,8 +80,8 @@ sopWordsV = \lyricmode {
   \set stanza = "5. " \set shortVocalName = "5. "
   Crown him the Lord of years,
   The Po -- ten -- tate of time,
-  Crea -- a -- tor of the roll -- ing spheres,
-  In -- eff -- fa -- bly sub -- lime.
+  Cre -- a -- tor of the roll -- ing spheres,
+  In -- ef -- fa -- bly sub -- lime.
   All hail, Re -- deem -- er, hail!
   For thou hast died for me;
   Thy praise and glo -- ry shall not fail

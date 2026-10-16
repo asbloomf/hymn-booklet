@@ -1,10 +1,11 @@
 \version "2.14.2"
 %\include "../util.ly"
 \include "inc-header.ly"
+\paper { first-page-number = #21 }
 \header {
-  title = \markup{\override #'(font-name . "Garamond Premr Pro"){ \abs-fontsize #18 "All People That On Earth Do Dwell"}}
-  composer = \markup"Louis Bourgeois (c 1510-1561)"
-  poet = \markup "William Kethe(c 1530-1594)"
+  title = \markup{\override #'(font-name . "Garamond Premr Pro"){ \abs-fontsize #18 "All People That on Earth Do Dwell"}}
+  composer = \markup"Louis Bourgeois (c 1510–1561)"
+  poet = \markup "William Kethe (c 1530–1594)"
   tagline = ""
 }
 \paper {

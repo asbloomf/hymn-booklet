@@ -1,6 +1,7 @@
 \version "2.14.2"
 %\include "../util.ly"
 \include "inc-header.ly"
+\paper { first-page-number = #22 }
 \header {
   title = \markup{\override #'(font-name . "Garamond Premr Pro"){ \abs-fontsize #18 "Be Thou My Vision"}}
   composer = \markup"SLANE"

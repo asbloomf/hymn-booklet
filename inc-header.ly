@@ -11,11 +11,12 @@
   outer-margin = 0.5\in
   top-margin = 0.26\in
   bottom-margin = 0.25\in
-  first-page-number = #136
   print-first-page-number = ##t
   headerLine = ""
   oddHeaderMarkup = \markup\fill-line{}
   evenHeaderMarkup = \markup {}
+  oddFooterMarkup = \markup\with-dimensions #'(0 . 0) #'(0 . 0) \lower #2.4 \fill-line{"" \fromproperty #'page:page-number-string }
+  evenFooterMarkup = \markup\with-dimensions #'(0 . 0) #'(0 . 0) \lower #2.4 \fill-line{\fromproperty #'page:page-number-string ""}
 }
 #(set-global-staff-size 20) \paper{ #(define fonts (make-pango-font-tree "Garamond Premr Pro" "Garamond Premr Pro" "Garamond Premr Pro" (/ 22 20))) }
 \layout {

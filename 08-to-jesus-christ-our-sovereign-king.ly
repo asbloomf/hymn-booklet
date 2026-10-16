@@ -1,10 +1,11 @@
 \version "2.14.2"
 %\include "../util.ly"
 \include "inc-header.ly"
+\paper { first-page-number = #14 }
 \header {
   title = \markup{\override #'(font-name . "Garamond Premr Pro"){ \abs-fontsize #18 "To Jesus Christ, Our Sovereign King"}}
   composer = \markup"ICH GLAUB AN GOTT"
-  poet = \markup "Martin B Hellriegel (1890-1981)"
+  poet = \markup "Martin B Hellriegel (1890–1981)"
   tagline = ""
 }
 % #(set-global-staff-size 20) \paper{ #(define fonts (make-pango-font-tree "Garamond Premr Pro" "Garamond Premr Pro" "Garamond Premr Pro" (/ 22 20))) }
@@ -27,7 +28,7 @@ sopMusic = \relative c' {
 }
 sopWords = \lyricmode {
   \set stanza = "1. " \set shortVocalName = "1. "
-  To Je -- sus Christ, our sov -- "’reign" King Who is the world’s sal -- va -- tion,
+  To Je -- sus Christ, our sov -- "’reign" King, Who is the world’s sal -- va -- tion,
   All praise and hom -- age do we bring And thanks and ad -- o -- ra -- tion.
   \set shortVocalName = ""
   Christ Je -- sus, Vic -- tor! Christ Je -- sus, Rul -- er!

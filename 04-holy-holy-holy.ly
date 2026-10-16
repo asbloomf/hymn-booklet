@@ -1,10 +1,11 @@
 \version "2.14.2"
 %\include "../util.ly"
 \include "inc-header.ly"
+\paper { first-page-number = #6 }
 \header {
   title = \markup{\override #'(font-name . "Garamond Premr Pro"){ \abs-fontsize #18 "Holy, Holy, Holy!"}}
-  composer = \markup"John B Dykes (1823-1876)"
-  poet = \markup "Reginald Heber (1783-1826)"
+  composer = \markup"John B Dykes (1823–1876)"
+  poet = \markup "Reginald Heber (1783–1826)"
   tagline = ""
 }
 % #(set-global-staff-size 20) \paper{ #(define fonts (make-pango-font-tree "Garamond Premr Pro" "Garamond Premr Pro" "Garamond Premr Pro" (/ 22 20))) }
@@ -38,9 +39,9 @@ sopWordsII = \lyricmode {
   \set stanza = "2. " \set shortVocalName = "2. "
   Ho -- ly, ho -- ly, ho -- ly!
   \set ignoreMelismata = ##t
-  All the saints a -- dore thee.
+  All the saints a -- dore thee,
   Cast -- ing down their gold -- en crowns a -- round the glass -- y sea;
-  Chur -- u -- bim and ser -- a -- phim fall -- ing down be -- fore thee,
+  Cher -- u -- bim and ser -- a -- phim fall -- ing down be -- fore thee,
   Which wert, and art, and ev -- er -- more shalt be.
 }
 
@@ -48,7 +49,7 @@ sopWordsIII = \lyricmode {
   \set stanza = "3. " \set shortVocalName = "3. "
   Ho -- ly, ho -- ly, ho -- ly!
   \set ignoreMelismata = ##t
-  Though the dark -- ness hide thee.
+  Though the dark -- ness hide thee,
   Though the eye of sin -- ful man thy glo -- ry may not see,
   \set ignoreMelismata = ##f
   On -- ly thou art ho -- ly; there is none be -- side thee,

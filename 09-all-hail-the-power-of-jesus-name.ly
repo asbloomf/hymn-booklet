@@ -1,10 +1,11 @@
 \version "2.14.2"
 %\include "../util.ly"
 \include "inc-header.ly"
+\paper { first-page-number = #16 }
 \header {
   title = \markup{\override #'(font-name . "Garamond Premr Pro"){ \abs-fontsize #18 "All Hail the Power of Jesus’ Name"}}
-  composer = \markup"Oliver Holden (1765-1844)"
-  poet = \markup "Edward Perronet (1726-1792)"
+  composer = \markup"Oliver Holden (1765–1844)"
+  poet = \markup "Edward Perronet (1726–1792)"
   tagline = ""
 }
 % #(set-global-staff-size 20) \paper{ #(define fonts (make-pango-font-tree "Garamond Premr Pro" "Garamond Premr Pro" "Garamond Premr Pro" (/ 22 20))) }

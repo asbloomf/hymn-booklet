@@ -1,6 +1,7 @@
 \version "2.14.2"
 %\include "../util.ly"
 \include "inc-header.ly"
+\paper { first-page-number = #3 }
 \header {
   title = \markup{\override #'(font-name . "Garamond Premr Pro"){ \abs-fontsize #18 "Come, Holy Ghost"}}
   composer = \markup"Louis Lambilotte"
@@ -43,7 +44,7 @@ sopWords = \lyricmode {
 sopWordsII = \lyricmode {
   \set stanza = "2. " \set shortVocalName = "2. "
   O Com -- fort blest, to thee we cry,
-  Thou heav-n -- ly gift of God most high,
+  Thou heav’n -- ly gift of God most high,
   Thou font of life and fire of love,
   And sweet a -- noint -- ing from a -- bove.  bove.
   %And sweet a -- noint -- ing from a -- bove.
@@ -52,7 +53,7 @@ sopWordsII = \lyricmode {
 sopWordsIII = \lyricmode {
   \set stanza = "3. " \set shortVocalName = "3. "
   Praise be to thee, Fa -- ther and Son,
-  And Ho -- ly Spir -- it, Three in one;
+  And Ho -- ly Spir -- it, Three in One;
   And may the Son on us be -- stow
   The gifts that from the Spir -- it flow. flow.
   %The gifts that from the Spir -- it flow.

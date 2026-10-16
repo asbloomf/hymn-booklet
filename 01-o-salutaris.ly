@@ -1,8 +1,9 @@
 \version "2.14.2"
 %\include "../util.ly"
 \include "inc-header.ly"
+\paper { first-page-number = #2 }
 \header {
-  title = \markup{\override #'(font-name . "Garamond Premr Pro"){ \abs-fontsize #18 "O Salutaris"}}
+  title = \markup{\override #'(font-name . "Garamond Premr Pro"){ \abs-fontsize #18 "O Salutáris"}}
   composer = \markup"Duguet"
   poet = \markup "St Thomas Aquinas"
   tagline = ""
@@ -27,7 +28,7 @@ sopMusic = \relative c'' {
 sopWords = \lyricmode {
   \set stanza = "1. " \set shortVocalName = "1. "
   O sa -- lu -- tá -- ris hó -- sti -- a,
-  Quæ coe -- li pan -- dis ó -- sti -- um,
+  Quæ cæ -- li pan -- dis ó -- sti -- um,
   Bel -- la pre -- munt ho -- stí -- li -- a,
   Da ro -- bur, fer au -- xí -- li -- um.
 }
