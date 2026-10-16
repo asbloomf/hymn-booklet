@@ -1,6 +1,7 @@
 \version "2.14.2"
 %\include "../util.ly"
 \include "inc-header.ly"
+\paper { first-page-number = #8 }
 \header {
   title = \markup{\override #'(font-name . "Garamond Premr Pro"){ \abs-fontsize #18 "Holy God, We Praise Thy Name"}}
   composer = \markup"GROSSER GOTT"
@@ -35,7 +36,7 @@ sopMusic = \relative c' {
 }
 sopWords = \lyricmode {
   \set stanza = "1. " \set shortVocalName = "1. "
-  Ho -- ly God we praise thy name;
+  Ho -- ly God, we praise thy name;
   Lord of all, we bow be -- fore thee!
   All on earth thy scep -- ter claim,
   All in heav’n a -- bove a -- dore thee;

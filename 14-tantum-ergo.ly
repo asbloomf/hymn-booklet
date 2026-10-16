@@ -1,10 +1,11 @@
 \version "2.14.2"
 %\include "../util.ly"
 \include "inc-header.ly"
+\paper { first-page-number = #23 }
 \header {
   title = \markup{\override #'(font-name . "Garamond Premr Pro"){ \abs-fontsize #18 "Tantum Ergo"}}
-  composer = \markup"John Wade (-1786)"
-  poet = \markup "St Thomas Aquinas (-1274)"
+  composer = \markup"John F Wade (c 1711–1786)"
+  poet = \markup "St Thomas Aquinas (1225–1274)"
   tagline = ""
 }
 \paper {

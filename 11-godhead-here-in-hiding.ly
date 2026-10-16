@@ -1,10 +1,11 @@
 \version "2.14.2"
 %\include "../util.ly"
 \include "inc-header.ly"
+\paper { first-page-number = #20 }
 \include "chant-inc.ly"
 \header {
   title = \markup{\override #'(font-name . "Garamond Premr Pro"){ \abs-fontsize #18 "Godhead Here in Hiding"}}
-  composer = \markup""
+  composer = \markup"ADORO TE DEVOTE"
   poet = \markup "St Thomas Aquinas"
   tagline = ""
 }
@@ -37,7 +38,7 @@ sopMusic = \relative c' {
 }
 sopWords = \lyricmode {
   \set stanza = "1. " \set shortVocalName = "1. "
-  God -- head here in hid -- ing whom I do a -- dore
+  God -- head here in hid -- ing, whom I do a -- dore,
   Masked by these bare shad -- ows, shape and noth -- ing more.
   See, Lord, at thy serv -- ice low lies here a heart
   Lost, all lost in won -- der at the God thou art.

@@ -1,10 +1,11 @@
 \version "2.14.2"
 %\include "../util.ly"
 \include "inc-header.ly"
+\paper { first-page-number = #4 }
 \header {
   title = \markup{\override #'(font-name . "Garamond Premr Pro"){ \abs-fontsize #18 "Jesus, My Lord, My God, My All"}}
   % composer = \markup"Louis Lambilotte"
-  poet = \markup "Frederick W. Faber"
+  poet = \markup "Frederick W Faber (1814–1863)"
   tagline = ""
 }
 % #(set-global-staff-size 20) \paper{ #(define fonts (make-pango-font-tree "Garamond Premr Pro" "Garamond Premr Pro" "Garamond Premr Pro" (/ 22 20))) }

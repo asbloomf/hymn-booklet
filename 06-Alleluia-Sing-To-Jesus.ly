@@ -1,10 +1,11 @@
 \version "2.14.2"
 %\include "../util.ly"
 \include "inc-header.ly"
+\paper { first-page-number = #10 }
 \header {
   title = \markup{\override #'(font-name . "Garamond Premr Pro"){ \abs-fontsize #18 "Alleluia, Sing to Jesus!"}}
-  composer = \markup"Rowland H Prichard (1811-1887)"
-  poet = \markup "William C Dix (1837-1898)"
+  composer = \markup"Rowland H Prichard (1811–1887)"
+  poet = \markup "William C Dix (1837–1898)"
   tagline = ""
 }
 global = {
